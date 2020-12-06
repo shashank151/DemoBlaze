@@ -1,4 +1,4 @@
-# DemoBlaze
+# DemoBlaze - Maven Project
 # BDD framework - Cucumber-Selenium with Java
 
 #To run tests within this solution
